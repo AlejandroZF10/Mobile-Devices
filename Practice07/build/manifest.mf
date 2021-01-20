@@ -1,6 +1,0 @@
-MIDlet-1: ChoiceGroupME, , ejercicio7.ChoiceGroupME
-MIDlet-Vendor: Vendor
-MIDlet-Version: 1.0
-MIDlet-Name: Ejercicio7
-MicroEdition-Configuration: CLDC-1.1
-MicroEdition-Profile: MIDP-2.1

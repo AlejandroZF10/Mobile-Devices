@@ -1,6 +1,0 @@
-MIDlet-1: TextME, , ejercicio14.TextME
-MIDlet-Vendor: Vendor
-MIDlet-Version: 1.0
-MIDlet-Name: Ejercicio14
-MicroEdition-Configuration: CLDC-1.1
-MicroEdition-Profile: MIDP-2.1

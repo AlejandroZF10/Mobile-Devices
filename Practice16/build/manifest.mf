@@ -1,6 +1,0 @@
-MIDlet-1: MoveME, , ejercicio16.MoveME
-MIDlet-Vendor: Vendor
-MIDlet-Version: 1.0
-MIDlet-Name: Ejercicio16
-MicroEdition-Configuration: CLDC-1.1
-MicroEdition-Profile: MIDP-2.1
