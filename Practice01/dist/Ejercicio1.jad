@@ -1,8 +1,0 @@
-MIDlet-1: HelloMIDlet, , ejercicio1.HelloMIDlet
-MIDlet-Jar-Size: 1608
-MIDlet-Jar-URL: Ejercicio1.jar
-MIDlet-Name: Ejercicio1
-MIDlet-Vendor: Vendor
-MIDlet-Version: 1.0
-MicroEdition-Configuration: CLDC-1.1
-MicroEdition-Profile: MIDP-2.1
