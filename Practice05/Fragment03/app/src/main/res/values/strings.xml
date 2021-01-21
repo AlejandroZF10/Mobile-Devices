@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragment03</string>
+    <string name="title_activity_detalle">DetalleActivity</string>
+    <string name="title_activity_fragment_detalle">FragmentDetalle</string>
+    <string name="title_activity_fragment_listado">FragmentListado</string>
+    <string name="title_activity_grupo">Grupo</string>
+</resources>
