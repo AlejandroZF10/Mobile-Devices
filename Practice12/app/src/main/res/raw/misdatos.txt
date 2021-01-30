@@ -1,0 +1,2 @@
+﻿Hola, estoy abriendo un archivo!
+Este es el archivo: mis datos
